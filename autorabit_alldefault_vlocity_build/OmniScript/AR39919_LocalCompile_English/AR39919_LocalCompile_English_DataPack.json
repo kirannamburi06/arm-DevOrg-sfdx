@@ -1,0 +1,21 @@
+{
+    "%vlocity_namespace%__CustomJavaScript__c": "",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "AR39919_LocalCompile_English_Element_Step1.json"
+    ],
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__IsLwcEnabled__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__PropertySet__c": "AR39919_LocalCompile_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "LocalCompile",
+    "%vlocity_namespace%__Type__c": "AR39919",
+    "Name": "LocalCompile",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/AR39919/LocalCompile/English"
+}
