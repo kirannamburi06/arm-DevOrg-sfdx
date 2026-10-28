@@ -1,16 +1,11 @@
 {
-  "packageDirectories" : [
-    {
-      "path" : "force-app",
-      "default" : true,
-      "package" : "armDemo",
-      "versionName" : "ver 0.1",
-      "versionNumber" : "0.1.0.NEXT"
-    },
-    {
-      "path" : "pkg-b"
-    }
-  ],
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true,
+    "package" : "armDemo",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "67.0",
